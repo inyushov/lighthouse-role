@@ -10,7 +10,7 @@ lighthouse-role
 Requirements
 ------------
 
-1. Debian ОС
+1. Centos ОС
 2. Предустановленная БД Clickhouse  
 
 Role Variables
